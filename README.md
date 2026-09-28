@@ -30,8 +30,6 @@ No Python environment, GPU, or Internet connection is required.
 
 4. Export the generated average face as **PNG / JPG**, or export statistical data as **CSV** from the Statistics page.
 
-<img width="2559" height="1516" alt="preview" src="https://github.com/user-attachments/assets/202279d9-d6a0-4527-8c19-1a8023e448a0" />
-
 The **Ranking** page separately displays the samples that are most similar and least similar to the average face of their respective male or female group.
 
 The **Comparison** feature allows you to upload a single-person photo and search for the most similar faces among all non-excluded samples, including samples that have not yet been assigned to a group.
